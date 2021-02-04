@@ -1,0 +1,40 @@
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\bin\Debug\net5.0\Student Management.exe
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\bin\Debug\net5.0\Student Management.deps.json
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\bin\Debug\net5.0\Student Management.runtimeconfig.json
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\bin\Debug\net5.0\Student Management.runtimeconfig.dev.json
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\bin\Debug\net5.0\Student Management.dll
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\bin\Debug\net5.0\ref\Student Management.dll
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\bin\Debug\net5.0\Student Management.pdb
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\bin\Debug\net5.0\Student Management.Views.dll
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\bin\Debug\net5.0\Student Management.Views.pdb
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.csprojAssemblyReference.cache
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.AssemblyInfoInputs.cache
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.AssemblyInfo.cs
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.RazorAssemblyInfo.cache
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.RazorAssemblyInfo.cs
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\staticwebassets\Student Management.StaticWebAssets.Manifest.cache
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\staticwebassets\Student Management.StaticWebAssets.xml
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\scopedcss\bundle\Student Management.styles.css
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.TagHelpers.input.cache
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.TagHelpers.output.cache
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.RazorCoreGenerate.cache
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.RazorTargetAssemblyInfo.cache
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.RazorTargetAssemblyInfo.cs
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.Views.pdb
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.dll
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\ref\Student Management.dll
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.pdb
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.genruntimeconfig.cache
+C:\Users\Administrateur\RiderProjects\Student Management\Student Management\obj\Debug\net5.0\Student Management.csproj.CopyComplete
