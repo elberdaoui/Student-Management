@@ -45,11 +45,11 @@ jobs:
 
       - name: Build
         run: |
-          dotnet restore Student Management/Student Management.csproj
-          msbuild /t:Pack /p:Configuration=Debug Student Management/Student Management.csproj
+          dotnet restore StudentManagement/StudentManagement.csproj
+          msbuild /t:Pack /p:Configuration=Debug StudentManagement/StudentManagement.csproj
 
       - name: Copy
-        run: copy Student Management/bin/Debug/*.nupkg .
+        run: copy StudentManagement/bin/Debug/*.nupkg .
 
     # - name: PushNuget
     #   run: dotnet nuget push *.nupkg --source https://api.nuget.org/v3/index.json --api-key ${{ secrets.PUBLISH_TO_NUGET_ORG }} --skip-duplicate
